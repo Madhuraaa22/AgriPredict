@@ -19,4 +19,13 @@
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
   }
+  "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+},
+  "homepage": "https://Madhuraaa22.github.io/AgriPredict/"
+
+
 }
