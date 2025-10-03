@@ -1,0 +1,7 @@
+{
+  "name": "AgriPredict",
+  "description": "An intelligent agriculture assistant app that helps farmers with AI-driven solutions for crop disease detection, a marketplace for trading, information on government schemes, and simulated water level monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
